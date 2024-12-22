@@ -83,7 +83,8 @@ Open the browser and navigate to `http://localhost:3000` to view the UI implemen
 ---
 
 ## 📸 Screenshots
-![XORA Screenshot](https://via.placeholder.com/800x400.png?text=XORA+Landing+Page+UI)  
+![XORA Screenshot](https://github.com/user-attachments/assets/6ad52466-e62d-4c83-9245-324f68542851)  
+
 
 
 ---
